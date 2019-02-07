@@ -1,0 +1,25 @@
+# Color:   0-Green,         1-Black,            2-White
+# Root:    0-Crouch,        1-Little Crouch,    2-Hard
+# Sound:   0-Quiet,         1-Dull,             2-Clear
+# Texture: 0-Distinct,      1-Little Vague,     2-Vague
+# Skin:    0-Depressed,     1-Little Depressed, 2-Flat
+# Touch:   0-Hard and Slip, 1-Soft and Stick
+
+Id    Color    Root    Sound    Texture    Skin    Touch    IsGood
+1      0        0        0         0        0        0       Yes
+2      1        0        1         0        0        0       Yes
+3      1        0        0         0        0        0       Yes
+4      0        1        0         0        1        1       Yes
+5      1        1        0         1        1        1       Yes
+6      0        2        2         0        2        1       No
+7      2        1        1         1        0        0       No
+8      1        1        0         0        1        0       No
+9      2        0        0         2        2        0       No
+10     0        0        1         1        1        0       No
+11     0        0        1         0        0        0       Yes
+12     2        0        1         0        0        0       Yes
+13     1        1        0         0        1        0       Yes
+14     1        1        1         1        1        0       No
+15     2        2        2         2        2        0       No
+16     2        0        0         0        2        1       No
+17     0        1        0         1        0        0       No            
